@@ -1,3 +1,6 @@
+
+## Digital Image Processing course at AGH University of Science and Technology.
+
 | Lab     | Task Name                                        | Solution Link                                                                 |
 |---------|------------------------------------------------- |-------------------------------------------------------------------------------|
 | Lab 1   | Intro                                            | [solution1](https://github.com/ZioloPan/AGH_Digital-Image-Processing/blob/main/lab1/01_intro.ipynb) |
